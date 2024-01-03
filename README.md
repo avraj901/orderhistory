@@ -1,2 +1,2 @@
 # orderhistory
-Perform the operation on dataase.
+Perform the operation on database.
